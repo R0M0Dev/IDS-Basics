@@ -23,4 +23,4 @@ sepallength,sepalwidth,petallength,petalwidth,class,Name,Score,Color
 7.6,3,6.6,2.1,Iris-virginica,F22,27,Blue
 4.9,2.5,4.5,,Iris-virginica,F23,25,Orange
 7.3,2.9,6.3,1.8,Iris-virginica,F24,21,Purple
-7.3,2.9,6.3,1.8,Iris-virginica,F24,21,Purple
+7.3,2.9,6.3,1.8,Iris-virginica,F24,100,Purple
